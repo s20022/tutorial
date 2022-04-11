@@ -2,3 +2,4 @@ test
 test
 test
 commit 記録
+pull　リモートの内容を取得
