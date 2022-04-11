@@ -1,3 +1,4 @@
 test
 test
 test
+pull　リモートの内容を取得
